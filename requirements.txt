@@ -10,7 +10,7 @@ pillow==10.4.0
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
 pytz==2024.2
-seaborn==0.13.2
+seaborn==0.12.2
 six==1.16.0
 tzdata==2024.2
 wordcloud==1.9.3
